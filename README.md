@@ -6,7 +6,7 @@ Please note that this implementation saves the authentication token to local sto
 It needs a WP environment running and this small WordPress **[plugin](https://github.com/henritik/todo-helper-plugin)** installed.
 Also needs **[JWT Authentication for WP REST API](https://fi.wordpress.org/plugins/jwt-authentication-for-wp-rest-api/)** plugin to be installed.
 
-Live demo: **[https://henritikkanen.info/temp/headless-todo/app](https://henritikkanen.info/temp/headless-todo/app)**
+Live demo: **[https://henritikkanen.info/headless-todo/app](https://henritikkanen.info/headless-todo/app)**
 
 Username: demo<br>
 Password: demo
