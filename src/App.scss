@@ -1,11 +1,11 @@
 @import '~bootstrap/scss/bootstrap';
 
-.margin-bottom {
-    margin-bottom: 30px;
-}
-
 h1 {
     padding: 30px 0;
+}
+
+.margin-bottom {
+    margin-bottom: 30px;
 }
 
 .app-header {
@@ -29,11 +29,7 @@ h1 {
     text-decoration: none;
 }
 
-.margin-bottomm {
-    margin-bottom: 20px;
-}
-
-.buttons{
+.buttons {
 margin-left: 10px;
 }
 
@@ -81,13 +77,14 @@ margin-left: 10px;
 }
 
 @media only screen and (max-width: 849px) {
+
+    h1 {
+        padding: 15px 0;
+    }
+    
     .login {
         input  {
             max-width: 100%;
         }
-    }
-
-    h1 {
-        padding: 15px 0;
     }
 }
