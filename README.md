@@ -3,15 +3,14 @@ This is a simple todo app made with React that uses WordPress based backend. Ori
 
 Please note that this implementation saves the authentication token to local storage, that is not the most secure way to store it. However, this app is not meant to contain any that sensitive information and fully hacker proof authorization method was not the main subject of this implementation for me. If you wish to implement it in more secure way, I would recommend to read this **[article](https://medium.com/@ryanchenkie_40935/react-authentication-how-to-store-jwt-in-a-cookie-346519310e81)** for example.
 
-It needs a WP environment running and this small WordPress **[plugin](https://github.com/henritik/todo-helper-plugin)** installed.
-Also needs **[JWT Authentication for WP REST API](https://fi.wordpress.org/plugins/jwt-authentication-for-wp-rest-api/)** plugin to be installed.
+A WordPress environment running, **[this helper plugin](https://github.com/henritik/todo-helper-plugin)** installed and **[JWT Authentication for WP REST API](https://fi.wordpress.org/plugins/jwt-authentication-for-wp-rest-api/)** plugin are needed.
 
 Live demo: **[https://henritikkanen.info/headless-todo/app](https://henritikkanen.info/headless-todo/app)**
 
 Username: demo<br>
 Password: demo
 
-## Features:
+## Features
 
  - Using **[WordPress REST API](https://developer.wordpress.org/rest-api/)**
  - Create a new entry, delete and mark entries as done
@@ -59,7 +58,7 @@ REACT_APP_TODO_TAXONOMY_ID=3 <!-- Taxonomy ID for your "To do" todos -->
 #### 1.0.0
 - Initial release
   
-## License:
+## License
 
 MIT License
 
