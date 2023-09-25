@@ -12,10 +12,10 @@ Password: demo
 
 ## Features
 
- - Using **[WordPress REST API](https://developer.wordpress.org/rest-api/)**
+ - Using WordPress REST API
  - Create a new entry, delete and mark entries as done
  - Filtering and counts todos by their statuses
- - User management by WordPress and authorization with oAuth 2.0
+ - User management by WordPress and authorization with JWT authentication method
  - Simple user dashboard with basic user information
  - Loading animation while updating the data
  - Clear and mobile friendly UI
