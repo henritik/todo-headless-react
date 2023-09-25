@@ -15,7 +15,7 @@ Password: demo
  - Using WordPress REST API
  - Create a new entry, delete and mark entries as done
  - Filtering and counts todos by their statuses
- - User management by WordPress and authorization with JWT authentication method
+ - User management by WordPress and JWT authentication method
  - Simple user dashboard with basic user information
  - Loading animation while updating the data
  - Clear and mobile friendly UI
