@@ -50,7 +50,7 @@ class Dashboard extends React.Component {
         </button>
         <Card className="mt-3 mb-3">
           <Card.Body>
-            <h5>Wellcome<b> {first_name} {last_name}</b>!</h5>
+            <h5>Welcome<b> {first_name} {last_name}</b>!</h5>
             <p>You have logged in as<b> {username} </b> 
             and your role is <b> {roles}</b>.</p>
           </Card.Body>
